@@ -17,7 +17,7 @@ An object-oriented implementation of a linked list data structure in JavaScript.
 - insertAt(value, index) inserts a new node with the provided value at the given index or at the end of the list if index is bigger than list size
 - removeAt(index) removes the node at the given index or error message if the list is empty or if the request index is bigger than list size
 
-## Though process on building Linked List
+## Thought process on building Linked List
 
 When I started this project, I asked myself: why bother implementing a linked list when JavaScript already has arrays? Arrays are incredibly useful and give you O(1) access to any element by index. So why do I bother? Until I went through couple of videos, articles and fourms referenced in the The Odin project.
 
