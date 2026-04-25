@@ -2,9 +2,16 @@
 
 An object-oriented implementation of a linked list data structure in JavaScript.
 
-## Why I Built This
+## Though process on building Linked List
 
-When I started this project, I asked myself: why bother implementing a linked list when JavaScript already has arrays? Arrays are incredibly useful and give you O(1) access to any element by index. So why did I bother?
+When I started this project, I asked myself: why bother implementing a linked list when JavaScript already has arrays? Arrays are incredibly useful and give you O(1) access to any element by index. So why do I bother? Until I went through couple of videos, articles and fourms referenced in the The Odin project.
+
+# The summary of what I learned after going through all of them:
+
+    https://web.archive.org/web/20200217010131/http://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html
+    https://dev.to/vaidehijoshi/whats-a-linked-list-anyway
+    https://www.youtube.com/watch?v=oiW79L8VYXk
+    https://dev.to/karimdevelops/are-linked-lists-necessary-2ckl
 
 ## The Problem with Arrays
 
